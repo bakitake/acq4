@@ -1,6 +1,8 @@
 ACQ4
 ====
 
+I added a comment.
+
 Neurophysiology acquisition and analysis for Python
 
 Copyright 2013 Luke Campagnola, University of North Carolina at Chapel Hill
